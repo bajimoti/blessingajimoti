@@ -25,4 +25,3 @@ fields:
   default: now
 pages:
 - journal/first-journal.md
-- journal/macos-development-environment.md
