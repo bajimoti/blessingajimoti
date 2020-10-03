@@ -7,7 +7,6 @@ sections:
 - type: document
   path: aboutme/**/*.md
   label: About Me
-  match: "**/*"
 - type: directory
   path: projects
   label: Projects
