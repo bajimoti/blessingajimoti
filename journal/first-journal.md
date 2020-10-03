@@ -2,7 +2,7 @@
 date: 2020-10-03
 author: Nichlas W. Andersen
 title: First Journal
-excerpt: What you wanna know?
+excerpt: What you wanna know? The short summary? A snippet?
 
 ---
 **![](/uploads/blessing-ajimoti-2.jpg)**
